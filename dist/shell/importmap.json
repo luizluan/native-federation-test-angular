@@ -1,0 +1,25 @@
+{
+  "imports": {
+    "@angular/animations": "_angular_animations-16_2_5.js",
+    "@angular/animations/browser": "_angular_animations_browser-16_2_5.js",
+    "@angular/common": "_angular_common-16_2_5.js",
+    "@angular/common/http": "_angular_common_http-16_2_5.js",
+    "@angular/compiler": "_angular_compiler-16_2_5.js",
+    "@angular/core": "_angular_core-16_2_5.js",
+    "@angular/core/rxjs-interop": "_angular_core_rxjs_interop-16_2_5.js",
+    "@angular/forms": "_angular_forms-16_2_5.js",
+    "@angular/platform-browser": "_angular_platform_browser-16_2_5.js",
+    "@angular/platform-browser/animations": "_angular_platform_browser_animations-16_2_5.js",
+    "@angular/platform-browser-dynamic": "_angular_platform_browser_dynamic-16_2_5.js",
+    "@angular/router": "_angular_router-16_2_5.js",
+    "ngx-toastr": "ngx_toastr-17_0_2.js",
+    "ngx-toastr/toastr": "ngx_toastr_toastr-17_0_2.js",
+    "ngx-toastr/toastr-old": "ngx_toastr_toastr_old-17_0_2.js",
+    "ngx-toastr/toastr-bs4-alert": "ngx_toastr_toastr_bs4_alert-17_0_2.js",
+    "ngx-toastr/toastr-bs5-alert": "ngx_toastr_toastr_bs5_alert-17_0_2.js",
+    "rxjs": "rxjs-7_8_1.js",
+    "rxjs/operators": "rxjs_operators-7_8_1.js",
+    "tslib": "tslib-2_6_2.js",
+    "@demo/auth": "_demo_auth-HYSUE6OB.js"
+  }
+}
